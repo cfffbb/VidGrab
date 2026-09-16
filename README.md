@@ -124,4 +124,9 @@ MIT License
 
 ## 免责声明
 
-本工具仅供学习交流使用，请尊重视频版权，下载内容的版权归原作者所有。
+本工具仅供学习交流使用，请尊重视频版权，下载内容的版权归原作者所有。<img width="793" height="397" alt="image" src="https://github.com/user-attachments/assets/7d72d1d6-f098-44ab-bd1e-1e942c8e5b8f" />
+<img width="812" height="356" alt="image" src="https://github.com/user-attachments/assets/fc7eb44c-70e0-41e4-b0f4-c4d126b1d118" />
+<img width="806" height="390" alt="image" src="https://github.com/user-attachments/assets/7c63ab96-c7e9-46e9-a2b1-137bd70b51fd" />
+<img width="770" height="397" alt="image" src="https://github.com/user-attachments/assets/63e521af-ea66-4ac1-aa99-c098253779c4" />
+
+
