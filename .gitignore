@@ -1,0 +1,9 @@
+﻿node_modules/
+dist/
+__pycache__/
+*.pyc
+.env
+backend/downloads/
+*.mp4
+*.exe
+
